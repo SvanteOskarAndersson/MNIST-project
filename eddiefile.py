@@ -6,3 +6,10 @@ def func(number):
 
 print(f'OMG large matrix')
 print(func(34))
+
+
+def func_2(number):
+    sqrt = np.sqrt(number)
+    return sqrt
+
+    
